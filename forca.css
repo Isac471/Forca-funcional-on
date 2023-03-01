@@ -172,7 +172,7 @@ body{
 
 .modal-header-add-palavra{
     padding: 2px 16px;
-    background-color: #ffd700;
+    background-color: white;
     font-size: 1.3em;
     border-bottom: 10px solid #000;
 }
@@ -209,13 +209,13 @@ body{
 }
 
 .modal-body-add-palavra button{
-    background-color: #ffd700;
+    background-color: white;
     cursor: pointer;
 }
 
 .modal-body-add-palavra button:hover{
     background-color: #000;
-    color: #ffd700;
+    color: white;
     cursor: pointer;
 }
 
